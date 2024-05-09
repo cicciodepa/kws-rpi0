@@ -34,8 +34,8 @@ In this project, we’ll build a keyword spotting system using a Raspberry Pi Ze
 ## Usage
 1. Clone this repository:
    ```bash
-   git clone https://github.com/cicciodepa/pi0-keyword-spotting.git
-   cd pi0-keyword-spotting
+   git clone https://github.com/cicciodepa/kws-rpi0.git
+   cd kws-rpi0
    ```
 2. Run the keyword spotting script on your Raspberry device:
     ```bash
